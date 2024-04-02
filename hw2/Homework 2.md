@@ -28,11 +28,37 @@
 
 ![](https://github.com/libingixn/hw4InternLM/blob/main/hw2/images/load2.png)
 
-3. 完成 `浦语·灵笔2` 的 `图文创作` 及 `视觉问答` 部署（需截图）
+4. 完成 `浦语·灵笔2` 的 `图文创作` 及 `视觉问答` 部署（需截图）
 
-排队等待中
+**图文创作 效果**
 
-4. 完成 `Lagent` 工具调用 `数据分析` Demo 部署（需截图）
+![](D:\AllProject\hw4InternLM\hw2\images\图文写作1.png)
+
+![](D:\AllProject\hw4InternLM\hw2\images\图文写作2.png)
+
+![](D:\AllProject\hw4InternLM\hw2\images\图文写作3.png)
+
+![](D:\AllProject\hw4InternLM\hw2\images\图文写作4.png)
+
+**图文创作 日志**
+
+- 文本分割、语义理解
+
+![](D:\AllProject\hw4InternLM\hw2\images\图文seg.png)
+
+- 判断图像插入位置、生成图片标题
+
+![](D:\AllProject\hw4InternLM\hw2\images\图文 生成图像标题.png)
+
+- 图片下载、为每个图片插入位置选择最合适的图片
+
+![](D:\AllProject\hw4InternLM\hw2\images\图文 下载选择图片.png)
+
+**视觉问答**
+
+![](D:\AllProject\hw4InternLM\hw2\images\视觉问答.png)
+
+5. 完成 `Lagent` 工具调用 `数据分析` Demo 部署（需截图）
 
 ![](https://github.com/libingixn/hw4InternLM/blob/main/hw2/images/Lagnet1.png)
 
